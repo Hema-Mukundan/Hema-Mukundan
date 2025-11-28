@@ -27,21 +27,21 @@ A complete NLP pipeline to classify healthcare reviews into positive, neutral, a
 ### 2️⃣ **Uber Supply–Demand Gap Analysis**  
 Analyzed ride request and driver availability to identify peak hours, shortages, and operational insights.  
 **Skills:** Data wrangling, time-series analysis, EDA, visualization  
-👉 *GitHub Repo (Add your repo link when uploaded)*
+👉 *[GitHub Repo](https://github.com/Hema-Mukundan/Uber-Supply-Demand-Gap-Analysis)*
 
 ---
 
 ### 3️⃣ **YouTube Data Harvesting & Streamlit Dashboard**  
 Built a tool using the YouTube API to extract channel & video metrics, store them in SQL, and visualize trends.  
 **Skills:** API integration, SQL, Pandas, Streamlit, Plotly  
-👉 *GitHub Repo (Add your repo link when uploaded)*
+👉 *[GitHub Repo](https://github.com/Hema-Mukundan/Youtube_Dataharvesting)*
 
 ---
 
 ### 4️⃣ **Strava Fitness & Heart Rate Data Analysis**  
 Analyzed personal Strava/fitness tracker data to derive insights on activity, calories, heart rate, sleep, and lifestyle patterns.  
 **Skills:** Merging multi-source datasets, time-series analysis, feature engineering, visualization  
-👉 *GitHub Repo (Add your repo link when uploaded)*
+👉 *[GitHub Repo](https://github.com/Hema-Mukundan/Strava-fitness-Data-Analysis)*
 
 ---
 
