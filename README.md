@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Hema Mukundan  
+# 👋 Hi, I'm Hema Mukundan!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hema-Mukundan&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Hema-Mukundan?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Hema-Mukundan?label=Stars&style=social)
 
 ### 💡 Data Analyst | NLP Enthusiast | Streamlit App Builder | SQL • Python • Power BI  
 Detail-oriented and analytical thinker with experience turning raw data into meaningful insights and interactive applications.  
